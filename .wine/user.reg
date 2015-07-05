@@ -1,0 +1,24 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
+
+#arch=win32
+
+[Software\\Wine\\DllOverrides] 1328836370
+"*gdiplus"="native,builtin"
+"*itircl"="native,builtin"
+"*itss"="native,builtin"
+"*jscript"="native,builtin"
+"*msctf"="native,builtin"
+"*mshtml"="native,builtin"
+"*msvcr80"="native,builtin"
+"*msvcr100"="native,builtin"
+"*riched20"="native,builtin"
+"*riched32"="native,builtin"
+"*shdoclc"="native,builtin"
+"*shdocvw"="native,builtin"
+"*shlwapi"="native,builtin"
+"*updspapi"="builtin"
+"*urlmon"="native,builtin"
+"*xmllite"="native,builtin"
+"*usp10"="native,builtin"
+"*atl80"="native,builtin"

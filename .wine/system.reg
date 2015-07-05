@@ -1,0 +1,286 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine
+
+#arch=win32
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion] 1398405942
+"CSDVersion"=" "
+"CurrentBuildNumber"="9200"
+"CurrentType"="Uniprocessor Free"
+"CurrentVersion"="6.2"
+"InstallDate"=dword:4be5019a
+"ProductName"="Microsoft Windows 8"
+"RegisteredOrganization"=""
+"RegisteredOwner"=""
+"SystemRoot"="C:\\windows"
+
+[Software\\Classes\\.mfp] 1398566440
+@="MacromediaFlashPaper.MacromediaFlashPaper"
+"Content Type"="application/x-shockwave-flash"
+
+[Software\\Classes\\.sol] 1398566440
+"Content Type"="text/plain"
+
+[Software\\Classes\\.sor] 1398566440
+"Content Type"="text/plain"
+
+[Software\\Classes\\.spl] 1398566440
+@="ShockwaveFlash.ShockwaveFlash"
+"Content Type"="application/futuresplash"
+
+[Software\\Classes\\.swf] 1398566440
+@="ShockwaveFlash.ShockwaveFlash"
+"Content Type"="application/x-shockwave-flash"
+
+[Software\\Classes\\FlashFactory.FlashFactory] 1398566440
+@="Macromedia Flash Factory Object"
+
+[Software\\Classes\\FlashFactory.FlashFactory\\CLSID] 1398566440
+@="{D27CDB70-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\FlashFactory.FlashFactory\\CurVer] 1398566440
+@="FlashFactory.FlashFactory.1"
+
+[Software\\Classes\\FlashFactory.FlashFactory.1] 1398566440
+@="Macromedia Flash Factory Object"
+
+[Software\\Classes\\FlashFactory.FlashFactory.1\\CLSID] 1398566440
+@="{D27CDB70-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\Control] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\EnableFullPage\\.mfp] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\EnableFullPage\\.spl] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\EnableFullPage\\.swf] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\Implemented Categories\\{31CAF6E4-D6AA-4090-A050-A5AC8972E9EF}] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\Implemented Categories\\{7DD95801-9882-11CF-9FA9-00AA006C42C4}] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\Implemented Categories\\{7DD95802-9882-11CF-9FA9-00AA006C42C4}] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\InprocServer32] 1398566440
+@="C:\\windows\\system32\\Macromed\\Flash\\Flash11e.ocx"
+"ThreadingModel"="Apartment"
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\MiscStatus] 1398566440
+@="0"
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\MiscStatus\\1] 1398566440
+@="131473"
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\ProgID] 1398566440
+@="ShockwaveFlash.ShockwaveFlash.10"
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\Programmable] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\ToolboxBitmap32] 1398566440
+@="C:\\windows\\system32\\Macromed\\Flash\\Flash11e.ocx, 1"
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\TypeLib] 1398566440
+@="{D27CDB6B-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\Version] 1398566440
+@="1.0"
+
+[Software\\Classes\\CLSID\\{D27CDB6E-AE6D-11cf-96B8-444553540000}\\VersionIndependentProgID] 1398566440
+@="ShockwaveFlash.ShockwaveFlash"
+
+[Software\\Classes\\CLSID\\{D27CDB70-AE6D-11cf-96B8-444553540000}] 1398566440
+@="Macromedia Flash Factory Object"
+
+[Software\\Classes\\CLSID\\{D27CDB70-AE6D-11cf-96B8-444553540000}\\Control] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB70-AE6D-11cf-96B8-444553540000}\\InprocServer32] 1398566440
+@="C:\\windows\\system32\\Macromed\\Flash\\Flash11e.ocx"
+"ThreadingModel"="Apartment"
+
+[Software\\Classes\\CLSID\\{D27CDB70-AE6D-11cf-96B8-444553540000}\\ProgID] 1398566440
+@="FlashFactory.FlashFactory.1"
+
+[Software\\Classes\\CLSID\\{D27CDB70-AE6D-11cf-96B8-444553540000}\\Programmable] 1398566440
+
+[Software\\Classes\\CLSID\\{D27CDB70-AE6D-11cf-96B8-444553540000}\\ToolboxBitmap32] 1398566440
+@="C:\\windows\\system32\\Macromed\\Flash\\Flash11e.ocx, 1"
+
+[Software\\Classes\\CLSID\\{D27CDB70-AE6D-11cf-96B8-444553540000}\\TypeLib] 1398566440
+@="{D27CDB6B-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\CLSID\\{D27CDB70-AE6D-11cf-96B8-444553540000}\\Version] 1398566440
+@="1.0"
+
+[Software\\Classes\\CLSID\\{D27CDB70-AE6D-11cf-96B8-444553540000}\\VersionIndependentProgID] 1398566440
+@="FlashFactory.FlashFactory"
+
+[Software\\Classes\\Interface\\{5791BC27-CE9C-11D1-97BF-0000F81E849C}\\TypeLib] 1398566294
+@="{565783C6-CB41-11D1-8B02-00600806D9B6}"
+"Version"="1.2"
+
+[Software\\Classes\\Interface\\{57A0E747-3863-4D20-A811-950C84F1DB9B}] 1398566440
+@="IFlashAccessibility"
+
+[Software\\Classes\\Interface\\{57A0E747-3863-4D20-A811-950C84F1DB9B}\\ProxyStubClsid] 1398566440
+@="{00020424-0000-0000-C000-000000000046}"
+
+[Software\\Classes\\Interface\\{57A0E747-3863-4D20-A811-950C84F1DB9B}\\ProxyStubClsid32] 1398566440
+@="{00020424-0000-0000-C000-000000000046}"
+
+[Software\\Classes\\Interface\\{57A0E747-3863-4D20-A811-950C84F1DB9B}\\TypeLib] 1398566440
+@="{57A0E746-3863-4D20-A811-950C84F1DB9B}"
+"Version"="1.1"
+
+[Software\\Classes\\Interface\\{86230738-D762-4C50-A2DE-A753E5B1686F}] 1398566440
+@="IFlashObject"
+
+[Software\\Classes\\Interface\\{86230738-D762-4C50-A2DE-A753E5B1686F}\\ProxyStubClsid] 1398566440
+@="{00020424-0000-0000-C000-000000000046}"
+
+[Software\\Classes\\Interface\\{86230738-D762-4C50-A2DE-A753E5B1686F}\\ProxyStubClsid32] 1398566440
+@="{00020424-0000-0000-C000-000000000046}"
+
+[Software\\Classes\\Interface\\{86230738-D762-4C50-A2DE-A753E5B1686F}\\TypeLib] 1398566440
+@="{D27CDB6B-AE6D-11CF-96B8-444553540000}"
+"Version"="1.0"
+
+[Software\\Classes\\Interface\\{D27CDB6C-AE6D-11CF-96B8-444553540000}] 1398566440
+@="IShockwaveFlash"
+
+[Software\\Classes\\Interface\\{D27CDB6C-AE6D-11CF-96B8-444553540000}\\ProxyStubClsid] 1398566440
+@="{00020424-0000-0000-C000-000000000046}"
+
+[Software\\Classes\\Interface\\{D27CDB6C-AE6D-11CF-96B8-444553540000}\\ProxyStubClsid32] 1398566440
+@="{00020424-0000-0000-C000-000000000046}"
+
+[Software\\Classes\\Interface\\{D27CDB6C-AE6D-11CF-96B8-444553540000}\\TypeLib] 1398566440
+@="{D27CDB6B-AE6D-11CF-96B8-444553540000}"
+"Version"="1.0"
+
+[Software\\Classes\\Interface\\{D27CDB6D-AE6D-11CF-96B8-444553540000}] 1398566440
+@="_IShockwaveFlashEvents"
+
+[Software\\Classes\\Interface\\{D27CDB6D-AE6D-11CF-96B8-444553540000}\\ProxyStubClsid] 1398566440
+@="{00020424-0000-0000-C000-000000000046}"
+
+[Software\\Classes\\Interface\\{D27CDB6D-AE6D-11CF-96B8-444553540000}\\ProxyStubClsid32] 1398566440
+@="{00020424-0000-0000-C000-000000000046}"
+
+[Software\\Classes\\Interface\\{D27CDB6D-AE6D-11CF-96B8-444553540000}\\TypeLib] 1398566440
+@="{D27CDB6B-AE6D-11CF-96B8-444553540000}"
+"Version"="1.0"
+
+[Software\\Classes\\MacromediaFlashPaper.MacromediaFlashPaper] 1398566440
+@="Macromedia Flash Paper"
+
+[Software\\Classes\\MacromediaFlashPaper.MacromediaFlashPaper\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\MIME\\Database\\Content Type\\application/futuresplash] 1398566440
+"CLSID"="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+"Extension"=".spl"
+
+[Software\\Classes\\MIME\\Database\\Content Type\\application/x-shockwave-flash] 1398566440
+"CLSID"="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+"Extension"=".swf"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash\\CurVer] 1398566440
+@="ShockwaveFlash.ShockwaveFlash.10"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.1] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.1\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.10] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.10\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.3] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.3\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.4] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.4\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.5] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.5\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.6] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.6\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.7] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.7\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.8] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.8\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.9] 1398566440
+@="Shockwave Flash Object"
+
+[Software\\Classes\\ShockwaveFlash.ShockwaveFlash.9\\CLSID] 1398566440
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[Software\\Classes\\Typelib\\{57A0E746-3863-4D20-A811-950C84F1DB9B}\\1.1\\0\\win32] 1398566440
+@="C:\\windows\\system32\\Macromed\\Flash\\Flash11e.ocx\\2"
+
+[Software\\Classes\\Typelib\\{57A0E746-3863-4D20-A811-950C84F1DB9B}\\1.1\\FLAGS] 1398566440
+@="8"
+
+[Software\\Classes\\Typelib\\{57A0E746-3863-4D20-A811-950C84F1DB9B}\\1.1\\HELPDIR] 1398566440
+@="C:\\windows\\system32\\Macromed\\Flash\\Flash11e.ocx"
+
+[Software\\Classes\\Typelib\\{D27CDB6B-AE6D-11CF-96B8-444553540000}\\1.0] 1398566440
+@="Shockwave Flash"
+
+[Software\\Classes\\Typelib\\{D27CDB6B-AE6D-11CF-96B8-444553540000}\\1.0\\0\\win32] 1398566440
+@="C:\\windows\\system32\\Macromed\\Flash\\Flash11e.ocx"
+
+[Software\\Classes\\Typelib\\{D27CDB6B-AE6D-11CF-96B8-444553540000}\\1.0\\FLAGS] 1398566440
+@="8"
+
+[Software\\Classes\\Typelib\\{D27CDB6B-AE6D-11CF-96B8-444553540000}\\1.0\\HELPDIR] 1398566440
+@="C:\\windows\\system32\\Macromed\\Flash"
+
+[Software\\Macromedia\\FlashPlayer] 1398566440
+"CurrentVersion"="11,1,102,55"
+
+[Software\\Macromedia\\FlashPlayer\\SafeVersions] 1398566440
+"10.0"=dword:00e6001e
+"11.0"=dword:00660037
+"6.0"=dword:ffffffff
+"7.0"=dword:ffffffff
+"8.0"=dword:ffffffff
+"9.0"=dword:ffffffff
+
+[Software\\Microsoft\\Internet Explorer\\ActiveX Compatibility\\{D27CDB70-AE6D-11cf-96B8-444553540000}] 1398566440
+"Compatibility Flags"=dword:00010000
